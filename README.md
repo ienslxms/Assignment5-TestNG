@@ -22,23 +22,6 @@ Extent Reports (HTML test report)
 
 Google Chrome browser
 
-Project Structure
-Assignment5-TestNG/
-│
-├── src/test/java
-│   ├── base        → setup & teardown logic
-│   ├── tests       → automated test cases
-│   └── utils       → driver, logging, reports, screenshots
-│
-├── src/test/resources
-│   ├── log4j2.xml
-│   └── testng.xml
-│
-├── reports         → HTML test reports
-├── screenshots     → screenshots on test failure
-├── logs            → execution logs
-└── pom.xml
-
 Prerequisites
 
 Before running the project, ensure the following are installed:
