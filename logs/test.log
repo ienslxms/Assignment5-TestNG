@@ -1,0 +1,10 @@
+2026-01-17 02:27:12,762 INFO  utils.TestListener - TEST STARTED: emptyCredentialsTest
+2026-01-17 02:27:12,764 INFO  tests.LoginTests - Empty credentials test started
+2026-01-17 02:27:12,858 INFO  utils.TestListener - TEST PASSED: emptyCredentialsTest
+2026-01-17 02:27:14,778 INFO  utils.TestListener - TEST STARTED: invalidPasswordTest
+2026-01-17 02:27:14,779 INFO  tests.LoginTests - Invalid password test started
+2026-01-17 02:27:14,958 INFO  utils.TestListener - TEST PASSED: invalidPasswordTest
+2026-01-17 02:27:16,645 INFO  utils.TestListener - TEST STARTED: validLoginTest
+2026-01-17 02:27:16,647 INFO  tests.LoginTests - Valid login test started
+2026-01-17 02:27:16,806 INFO  utils.TestListener - TEST PASSED: validLoginTest
+2026-01-17 02:27:16,929 INFO  utils.TestListener - ALL TESTS FINISHED
