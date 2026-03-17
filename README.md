@@ -1,4 +1,4 @@
-# Assignment 5 – Test Automation (TestNG)
+# Test Automation (TestNG)
 
 ## Project Overview
 
